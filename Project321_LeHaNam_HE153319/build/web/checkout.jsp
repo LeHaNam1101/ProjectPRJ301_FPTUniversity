@@ -299,7 +299,7 @@
 
         <!-- Start copyright  -->
         <div class="footer-copyright">
-            <p class="footer-company">2021 &copy; by <a href="https://www.facebook.com/trihien2001" target="_blank">Vu tri hien</a> - PRJ321
+            <p class="footer-company">2021 &copy; by <a href="https://www.facebook.com/Star.LeHaNam.MMO.DevJava.NET/" target="_blank">Lê Hà Nam</a> - PRJ321
         </div>
         <!-- End copyright  -->
 
